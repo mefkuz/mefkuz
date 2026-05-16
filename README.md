@@ -45,6 +45,7 @@ class Mefkuz:
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=DC143C)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=DC143C)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=DC143C)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=DC143C)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=DC143C)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=DC143C)
@@ -60,26 +61,21 @@ class Mefkuz:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mefkuz&show_icons=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF&border_color=DC143C&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mefkuz&show_icons=true&bg_color=FFFFFF&title_color=DC143C&icon_color=DC143C&text_color=333333&border_color=DDDDDD&hide_border=false" />
-    <img src="https://github-readme-stats.vercel.app/api?username=mefkuz&show_icons=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF&border_color=DC143C&hide_border=true" height="170" alt="GitHub Stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mefkuz&layout=compact&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&border_color=DC143C&hide_border=true&hide=html,css" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mefkuz&layout=compact&bg_color=FFFFFF&title_color=DC143C&text_color=333333&border_color=DDDDDD&hide_border=false&hide=html,css" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mefkuz&layout=compact&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&border_color=DC143C&hide_border=true&hide=html,css" height="170" alt="Top Languages"/>
-  </picture>
-</div>
+
+<!-- Dark mode -->
+<a href="https://github.com/mefkuz">
+  <img src="https://github-readme-stats.vercel.app/api?username=mefkuz&show_icons=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF&border_color=DC143C&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/mefkuz">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mefkuz&layout=compact&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&border_color=DC143C&hide_border=true&hide=html,css&langs_count=8" height="170" alt="Top Languages" />
+</a>
 
 <br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mefkuz&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=DC143C&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mefkuz&background=FFFFFF&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=DC143C&currStreakNum=333333&sideNums=333333&dates=888888&hide_border=false&border=DDDDDD" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mefkuz&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=DC143C&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&hide_border=true" alt="GitHub Streak"/>
-  </picture>
+<a href="https://github.com/mefkuz">
+  <img src="https://streak-stats.demolab.com/?user=mefkuz&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=DC143C&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&hide_border=true" alt="GitHub Streak" />
+</a>
+
 </div>
 
 <!-- DIVIDER -->
@@ -89,11 +85,7 @@ class Mefkuz:
 ## 📈 Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mefkuz&bg_color=0D1117&color=DC143C&line=DC143C&point=FFFFFF&area=true&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mefkuz&bg_color=FFFFFF&color=DC143C&line=DC143C&point=333333&area=true&hide_border=false" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mefkuz&bg_color=0D1117&color=DC143C&line=DC143C&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mefkuz&bg_color=0D1117&color=DC143C&line=DC143C&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <!-- FOOTER -->
