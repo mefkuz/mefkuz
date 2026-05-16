@@ -63,12 +63,6 @@ class Mefkuz:
 <div align="center">
 
 <!-- Dark mode -->
-<a href="https://github.com/mefkuz">
-  <img src="https://github-readme-stats.vercel.app/api?username=mefkuz&show_icons=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF&border_color=DC143C&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/mefkuz">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mefkuz&layout=compact&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&border_color=DC143C&hide_border=true&hide=html,css&langs_count=8" height="170" alt="Top Languages" />
-</a>
 
 <br>
 
