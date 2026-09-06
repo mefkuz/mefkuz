@@ -72,18 +72,6 @@ class Mefkuz:
 
 </div>
 
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ACTIVITY GRAPH -->
-## 📈 Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mefkuz&bg_color=0D1117&color=DC143C&line=DC143C&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-<!-- FOOTER -->
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,100:000000&height=120&section=footer"/>
 
